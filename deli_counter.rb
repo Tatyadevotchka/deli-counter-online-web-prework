@@ -1,3 +1,4 @@
 katz deli = []
-def line (0)
+def line (x)
+  
   
