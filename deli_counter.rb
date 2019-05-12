@@ -16,5 +16,6 @@ def line (x)
       puts "There is nobody waiting to be served!"
     else 
       puts "Currently serving #{array[0]."
-      
+      array.shift
+    end
     
