@@ -12,5 +12,6 @@ def line (x)
     puts "Welcome #{name}, you are number #(katz_deli, name) in line"
   end
   def now_serving(array)
-    if array.empty
+    if array.empty?
+      puts "There is nobody waiting to be served!"
     
