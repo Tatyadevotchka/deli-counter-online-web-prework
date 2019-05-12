@@ -1,4 +1,5 @@
 katz deli = []
 def line (x)
-  line_array = 
+  line_array = []
+  
   
