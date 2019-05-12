@@ -11,4 +11,5 @@ def line (x)
     katz_deli.push(name)
     puts "Welcome #{name}, you are number #(katz_deli, name) in line"
   end
-  
+  def now_serving 
+    
