@@ -4,5 +4,5 @@ def line (x)
   if x.length== 0 
     puts "The line is currently empty"
   else
-    x.each.with_index 
+    x.each.with_index do |name, index|
   
